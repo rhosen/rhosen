@@ -3,7 +3,7 @@
     <td><img src="https://c.tenor.com/to0k0Ly8tDQAAAAi/busy-cat.gif"></td>
     <td>
       <p>Hello, I am <strong>Rubel Hosen.</strong></p>
-      <p>I am a <em>passionate</em> and <em>resilient</em> Software Engineer
+      <p>I am a <em>passionate</em> Software Engineer
         with more than three and half years of working experience, specializing
         in full-stack development using .NET technologies.</p>
       <a href="mailto:rubelhosen.cs@gmail.com" title="Email"><img
