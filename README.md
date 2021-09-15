@@ -4,7 +4,7 @@
     <td>
       <p>Hello, I am <strong>Rubel Hosen.</strong></p>
       <p>I am a <em>passionate</em> Software Engineer
-        with more than three and half years of working experience, specializing
+        with more than three and a half years of working experience, specializing
         in full-stack development using .NET technologies.</p>
       <a href="mailto:rubelhosen.cs@gmail.com" title="Email"><img
           src="https://img.icons8.com/pastel-glyph/30/000000/email--v1.png" /></a>
