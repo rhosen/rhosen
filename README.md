@@ -2,7 +2,7 @@
   <tr>
     <td><img src="https://c.tenor.com/to0k0Ly8tDQAAAAi/busy-cat.gif"></td>
     <td>
-      <p>Hello, I am <strong>Rubel Hosen.</strong></p>
+      <p>Hello 👋 I am <strong>Rubel Hosen.</strong></p>
       <p>I am a <em>passionate</em> Software Engineer
         with more than three and a half years of working experience, specializing
         in full-stack development using .NET technologies.</p>
@@ -15,3 +15,6 @@
     </td>
   </tr>
 </table>
+
+## 𝗦𝘁𝗮𝘁𝘀
+![Rubel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhosen&theme=slateorange&show_icons=true)
